@@ -1,0 +1,3 @@
+# Communication-of-Two-NodeMCUs-over-WiFi
+PURPOSE:
+One of my employer has an issue that some animals invaded his house at night, so I have developed a solution which works only at night (Purpose of using LDR), it detects any movement from the door (Purpose of using PIR) recognizes that any movement is made (Wifi-based-Arduino-board-SERVER) and sends an indication to his workplace (Wifi-based-Arduino-board-CLIENT)
